@@ -22,4 +22,4 @@ Este é um projeto de calendário interativo desenvolvido para praticar a manipu
 
 ## Captura de Tela
 
-![Demonstração do Calendário](/Projeto-pessoal/calendario-eventos/calendario.PNG)
+![Demonstração do Calendário](/calendario.PNG)
